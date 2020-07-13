@@ -1,0 +1,19 @@
+# Ignore SASS files
+/.sass-cache
+*.codekit
+.idea
+node_modules
+
+
+# Ignore drupal core (if not versioning drupal sources)
+#deploy
+/deploy
+
+#file extensions
+*.sql
+*.zip
+*.gz
+*.tar
+.ds_store
+*.DS_Store
+.DS_Store

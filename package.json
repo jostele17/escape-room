@@ -1,0 +1,25 @@
+{
+  "name": "escape-room",
+  "version": "1.0.0",
+  "description": "Devtamin website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jostele17/escape-room.git"
+  },
+  "keywords": [
+    "escaperoom"
+  ],
+  "bugs": {
+    "url": "https://github.com/jostele17/escape-room/issues"
+  },
+  "homepage": "https://github.com/jostele17/escape-room#readme"
+}
