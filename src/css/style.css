@@ -1,2 +1,8 @@
-body {
-  background-color: red; }
+#verificacion-form {
+  width: 350px;
+  margin: 0 auto;
+}
+
+.center-input::-webkit-input-placeholder {
+  text-align: center;
+}
