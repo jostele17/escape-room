@@ -1,0 +1,80 @@
+#verificacion-form {
+  width: 350px;
+  margin: 0 auto;
+}
+
+.center-input::-webkit-input-placeholder {
+  text-align: center;
+}
+
+.dia-3 {
+  background-image: url(../img/dia-3/fondo.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+}
+.dia-3-final {
+  background-image: url(../img/final-dia-3.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+}
+
+.barra-navegacion {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.texto-home {
+  font-size: 1.2rem;
+}
+
+.contenido-texto {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.contenido-texto-fin {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+.img-100 {
+  width: 100%;
+}
+
+.img-navegacion {
+  margin: 0 auto;
+}
+
+@media(max-width:540px) {
+  .img-navegacion {
+    width: 250px;
+  }
+}
+
+.btn-secondary {
+  background-color: rgba(0, 0, 0, 0.6);
+  border-color: rgba(0, 0, 0, 0.3);
+}
+
+.btn-secondary:hover {
+  background-color: rgba(0, 0, 0, 0.3);
+  border-color: rgba(0, 0, 0, 0.15);
+}
+
+.twitter-logo {
+  transition: all .5s;
+}
+
+.twitter-logo:hover {
+  transform: scale(1.2);
+}
+#block-mayus{
+  display: none;
+}
+.texto-bajo-gema {
+  background-color: rgba(72, 0, 91, 0.5);
+}
+.gema-d {
+  filter: grayscale(1);
+}

@@ -1,0 +1,41 @@
+.body-dia-2 {
+    background-image: url(../../img/dia-2/fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+}
+.body-dia-1-fin{
+    background-image: url(../../img/dia-1/fondo-final.jpg); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+.img-test-vertical {
+    width: 100%;
+    height: auto;
+}
+.iframe-dia-1{
+    width: 100%;
+    height: 350px;
+}
+@media(max-width: 991px){
+    .iframe-dia-1{
+        width: 100%;
+        height: 100%;
+    }
+}
+
+
+.iframe-dia-1-1{
+    width: 60%;
+    height: 350px;
+}
+@media(max-width: 991px){
+    .iframe-dia-1-1{
+        width: 100%;
+        height: 100%;
+    }
+}
