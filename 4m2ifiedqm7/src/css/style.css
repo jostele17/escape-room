@@ -14,6 +14,7 @@
   background-attachment: fixed;
   background-position: center center;
 }
+
 .dia-4-final {
   background-image: url(../img/img-final-dia-4.jpg);
   background-size: cover;
@@ -69,13 +70,19 @@
 .twitter-logo:hover {
   transform: scale(1.2);
 }
-#block-mayus{
+
+#block-mayus {
   display: none;
 }
 
 .texto-bajo-gema {
   background-color: rgba(72, 0, 91, 0.5);
 }
+
 .gema-d {
   filter: grayscale(1);
+}
+
+.texto-credito {
+  font-size: 11px;
 }
